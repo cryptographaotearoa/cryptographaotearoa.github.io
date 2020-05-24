@@ -4,7 +4,7 @@ title: Analysing Bitcoin
 date: 2020-05-24 16:53:00 +1200
 categories: [blog, datasci]
 author: Lee Jordan
-published: true
+published: false
 ---
 
 <h2>Data Science and Bitcoin</h2>
