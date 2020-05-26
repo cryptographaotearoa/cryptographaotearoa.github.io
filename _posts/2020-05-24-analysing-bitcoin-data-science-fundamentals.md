@@ -23,15 +23,13 @@ published: true
 
 <h2>Question Definition</h2>
 
-<p>We need to define "moments of political instability" and "Bitcoin prices" before we can continue.</p>
-
-<p>As our cryptocurrency exchange will be in the USA (with pricing in USD) and the US is a significant market for Bitcoin, we will look at political instability within a US context. Also, while what is defined as "instability" could be considered subjective in many instances, we will limit ourselves to a few events that (hopefully) are generally considered to be times of instability. These will include the election of Donald Trump and the arrival of COVID-19 to the USA, among other events.<p>
+<p>Instability - As our cryptocurrency exchange will be in the USA (with pricing in USD) and the US is a significant market for Bitcoin, we will look at political instability within a US context. Also, while what is defined as "instability" could be considered subjective in many instances, we will limit ourselves to a few events that (hopefully) are generally considered to be times of instability. These will include the election of Donald Trump and the arrival of COVID-19 to the USA, among other events.<p>
 
 <p>Regarding the price of Bitcoin, it has already been noted that we will be using a US Bitcoin exchange. I am going with <a href="https://www.coinbase.com/" title="Coinbase cryptocurrency exchange" rel="nofollow" target="_blank">Coinbase</a>, as I know this company and it has been trading since quite early days (2012), so there is significant data with which to work. You can pick whatever exchanges you want when you do this analysis yourself.</p>
 
 <h2>Initial Data</h2>
 
-<p>You can do analysis on your own machine with RStudio or Jupyter Notebooks, but this often involves downloading large data files. Because I don't want to again download Bitcoin historical data (and the data cleansing and analysis is slower, even on a decent machine), I will use online data that I connect with the Jupyter Notebooks on Google Colab.<p> 
+<p>You can do analysis on your own machine with <a href="https://rstudio.com/" rel="nofollow" target="_blank" title="RStudio">RStudio</a> or <a href="https://cryptograph.co.nz/jupyter-notebooks/" title="Jupyter Notebooks">Jupyter Notebooks</a>, but this often involves downloading large data files. Because I don't want to again download Bitcoin historical data (and the data cleansing and analysis is slower, even on a decent machine), I will use online data that I connect with the Jupyter Notebooks on <a href="https://colab.research.google.com/" rel="nofollow" target="_blank" title="Google Colab">Google Colaboratory</a>.<p> 
 
 <p>Coinbase's Bitcoin buy and sell data goes back to 01 December, 2014. The data is available at:</p>
 
