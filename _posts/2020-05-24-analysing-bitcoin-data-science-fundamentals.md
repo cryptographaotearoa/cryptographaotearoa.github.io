@@ -4,7 +4,7 @@ title: Analysing Bitcoin - Data Science Fundamentals
 date: 2020-05-24 16:53:00 +1200
 categories: [blog, datasci]
 author: Lee Jordan
-published: true
+published: false
 ---
 
 <h2>Data Science and Bitcoin</h2>
@@ -19,7 +19,7 @@ published: true
 
 <p><i>Do moments of political instability generally increase Bitcoin prices?</i><p> 
 
-<p>This question is too broad to be useful, so how can we limit the concept of "political instability" to something meaningful? Once we define instability, we will need to figure out how to get Bitcoin prices, but let's start with defining "instability".</p>
+<p>This question is too broad to be useful, so how can we limit the concept of "political instability" to something meaningful? Once we define instability, we will need to figure out how to get Bitcoin prices, but let's start with defining political instability.</p>
 
 <h2>Question Definition</h2>
 
