@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Analysing Bitcoin
+title: Analysing Bitcoin - Data Science Fundamentals
 date: 2020-05-24 16:53:00 +1200
 categories: [blog, datasci]
 author: Lee Jordan
-published: false
+published: true
 ---
 
 <h2>Data Science and Bitcoin</h2>
@@ -21,15 +21,19 @@ published: false
 
 <p>This question is too broad to be useful, so how can we limit the concept of "political instability" to something meaningful? Once we define instability, we will need to figure out how to get Bitcoin prices, but let's start with defining "instability".</p>
 
-<h2>Initial Dataset</h2>
+<h2>Initial Data</h2>
 
-<p><p> 
+<p>You can do analysis on your own machine with RStudio or Jupyter Notebooks, but this often involves downloading large data files. Because I don't want to again download Bitcoin historical data (and the data cleansing and analysis is slower, even on a decent machine), I will use online data that I connect with the Jupyter Notebooks on Google Colab.<p> 
+
+<p>The cryptocurrency exchange whose data I want to use is called "Coinbase" and their Bitcoin buy and sell data goes back to the start of December, 2014. The data is available at:</p>
+
+<p><a href="http://api.bitcoincharts.com/v1/csv/coinbaseUSD.csv.gz" title="Bitcoin historical data from Coinbase (USD)" rel="nofollow" target="_blank">Bitcoin historical data from Coinbase (USD)</a></p>
 
 <p><img class="img-border" src="https://cryptograph.co.nz/public/assets/images/coinbase-usd-24-may-2020 .png" alt="Coinbase Bitcoin historical dataset for download"></p>
 
-<p>Coinbase Bitcoin historical dataset for download</p>
-
 <h2>Jupyter Notebook on Google Colaboratory</h2>
+
+I introduced Jupyter Notebooks briefly <a href="https://cryptograph.co.nz/jupyter-notebooks/" title"Jupyter Notebooks">here</a>. I will be using the Google Colaboratory version, with my working file linked to:
 
 <a href="https://colab.research.google.com/drive/1KgRltQDvYXDA_S3uuFdnUtY9giOEetd2?usp=sharing" title="Bitcoin Historical Data Analysis on Google Colaboratory" rel="nofollow" target="_blank">https://colab.research.google.com/drive/1KgRltQDvYXDA_S3uuFdnUtY9giOEetd2?usp=sharing</a>
 
