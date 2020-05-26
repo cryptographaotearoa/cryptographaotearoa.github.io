@@ -33,7 +33,7 @@ published: true
 
 <h2>Jupyter Notebook on Google Colaboratory</h2>
 
-I introduced Jupyter Notebooks briefly <a href="https://cryptograph.co.nz/jupyter-notebooks/" title"Jupyter Notebooks">here</a>. I will be using the Google Colaboratory version, with my working file linked to:
+I introduced Jupyter Notebooks briefly <a href="https://cryptograph.co.nz/jupyter-notebooks/" title="Jupyter Notebooks">here</a>. I will be using the Google Colaboratory version, with my working file linked to:
 
-<a href="https://colab.research.google.com/drive/1KgRltQDvYXDA_S3uuFdnUtY9giOEetd2?usp=sharing" title="Bitcoin Historical Data Analysis on Google Colaboratory" rel="nofollow" target="_blank">https://colab.research.google.com/drive/1KgRltQDvYXDA_S3uuFdnUtY9giOEetd2?usp=sharing</a>
+<p><a href="https://colab.research.google.com/drive/1KgRltQDvYXDA_S3uuFdnUtY9giOEetd2?usp=sharing" title="Bitcoin Historical Data Analysis on Google Colaboratory" rel="nofollow" target="_blank">https://colab.research.google.com/drive/1KgRltQDvYXDA_S3uuFdnUtY9giOEetd2?usp=sharing</a></p>
 
