@@ -33,7 +33,7 @@ published: true
 
 <p>You can do analysis on your own machine with RStudio or Jupyter Notebooks, but this often involves downloading large data files. Because I don't want to again download Bitcoin historical data (and the data cleansing and analysis is slower, even on a decent machine), I will use online data that I connect with the Jupyter Notebooks on Google Colab.<p> 
 
-<p>The cryptocurrency exchange whose data I want to use is called "Coinbase" and their Bitcoin buy and sell data goes back to the start of December, 2014. The data is available at:</p>
+<p>Coinbase's Bitcoin buy and sell data goes back to 01 December, 2014. The data is available at:</p>
 
 <p><a href="http://api.bitcoincharts.com/v1/csv/coinbaseUSD.csv.gz" title="Bitcoin historical data from Coinbase (USD)" rel="nofollow" target="_blank">Bitcoin historical data from Coinbase (USD)</a></p>
 
