@@ -21,6 +21,14 @@ published: true
 
 <p>This question is too broad to be useful, so how can we limit the concept of "political instability" to something meaningful? Once we define instability, we will need to figure out how to get Bitcoin prices, but let's start with defining "instability".</p>
 
+<h2>Question Definition</h2>
+
+<p>We need to define "moments of political instability" and "Bitcoin prices" before we can continue.</p>
+
+<p>As our cryptocurrency exchange will be in the USA (with pricing in USD) and the US is a significant market for Bitcoin, we will look at political instability within a US context. Also, while what is defined as "instability" could be considered subjective in many instances, we will limit ourselves to a few events that (hopefully) are generally considered to be times of instability. These will include the election of Donald Trump and the arrival of COVID-19 to the USA, among other events.<p>
+
+<p>Regarding the price of Bitcoin, it has already been noted that we will be using a US Bitcoin exchange. I am going with <a href="https://www.coinbase.com/" title="Coinbase cryptocurrency exchange" rel="nofollow" target="_blank">Coinbase</a>, as I know this company and it has been trading since quite early days (2012), so there is significant data with which to work. You can pick whatever exchanges you want when you do this analysis yourself.</p>
+
 <h2>Initial Data</h2>
 
 <p>You can do analysis on your own machine with RStudio or Jupyter Notebooks, but this often involves downloading large data files. Because I don't want to again download Bitcoin historical data (and the data cleansing and analysis is slower, even on a decent machine), I will use online data that I connect with the Jupyter Notebooks on Google Colab.<p> 
@@ -33,7 +41,7 @@ published: true
 
 <h2>Jupyter Notebook on Google Colaboratory</h2>
 
-I introduced Jupyter Notebooks briefly <a href="https://cryptograph.co.nz/jupyter-notebooks/" title="Jupyter Notebooks">here</a>. I will be using the Google Colaboratory version, with my working file linked to:
+<p>I introduced Jupyter Notebooks briefly <a href="https://cryptograph.co.nz/jupyter-notebooks/" title="Jupyter Notebooks">here</a>. I will be using the Google Colaboratory version, with my working file linked to:</p>
 
 <p><a href="https://colab.research.google.com/drive/1KgRltQDvYXDA_S3uuFdnUtY9giOEetd2?usp=sharing" title="Bitcoin Historical Data Analysis on Google Colaboratory" rel="nofollow" target="_blank">https://colab.research.google.com/drive/1KgRltQDvYXDA_S3uuFdnUtY9giOEetd2?usp=sharing</a></p>
 
