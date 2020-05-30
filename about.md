@@ -17,7 +17,7 @@ title: About
 
 <h2>Contact</h2>
 
-My email is gerald -(at)- cryptographica.io. Please be advised that I generally only respond to clients or prospective clients by email and my response times for prospective clients can be up to two NZ business days (<a href="https://www.timeanddate.com/holidays/new-zealand/" alt="New Zealand holidays calendar" rel="nofollow" target="_blank">calendar of NZ holidays</a>).
+My email is lee -(at)- cryptographica.io. Please be advised that I generally only respond to clients or prospective clients by email and my response times for prospective clients can be up to two NZ business days (<a href="https://www.timeanddate.com/holidays/new-zealand/" alt="New Zealand holidays calendar" rel="nofollow" target="_blank">calendar of NZ holidays</a>).
 
 <h2>Date and Time</h2>
 
