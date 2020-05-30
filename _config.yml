@@ -22,6 +22,6 @@ plugins:
 
 # Custom vars
 version: 1.0.0
-google_analytics_id: #UA-XXXX-Y
+# google_analytics_id: #UA-XXXX-Y
 timezone: Pacific/Auckland
 future: false
