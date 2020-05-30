@@ -12,3 +12,5 @@ published: true
 <p>I have installed the Moodle Learning Management System (LMS) on <a href="https://cryptograph.nz">https://cryptograph.nz</a> and will be developing some test courses on that site. We will see what happens with them! It would be fantastic if they could become full courses for those wanting to learn the intersection of data science, cryptocurrencies and investment.</p>
 
 <p><img class="img-border" src="https://cryptograph.co.nz/public/assets/images/data-science-cryptocurrency-investment-courses.png" alt="Data Science Cryptocurrency Courses"></p>
+
+<p>Screenshot of Data Science and Crytocurrency Courses homepage being developed</p>
