@@ -13,4 +13,4 @@ published: true
 
 <p><img class="img-border" src="https://cryptograph.co.nz/public/assets/images/data-science-cryptocurrency-investment-courses.png" alt="Data Science Cryptocurrency Courses"></p>
 
-<p>Screenshot of Data Science and Crytocurrency Courses homepage being developed</p>
+<p>image: screenshot of data science and cryptocurrency courses homepage</p>
